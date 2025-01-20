@@ -1,0 +1,302 @@
+[
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Lisbon"],
+      "answer": "Paris"
+    },
+    {
+      "id": 2,
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Caravaggio"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "id": 3,
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Saturn", "Jupiter", "Uranus"],
+      "answer": "Jupiter"
+    },
+    {
+      "id": 4,
+      "question": "Who wrote the famous novel 'To Kill a Mockingbird'?",
+      "options": ["F. Scott Fitzgerald", "Harper Lee", "Jane Austen", "J.K. Rowling"],
+      "answer": "Harper Lee"
+    },
+    {
+      "id": 5,
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Ag", "Au", "Hg", "Pb"],
+      "answer": "Au"
+    },
+    {
+      "id": 6,
+      "question": "Who was the first President of the United States?",
+      "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "Franklin D. Roosevelt"],
+      "answer": "George Washington"
+    },
+    {
+      "id": 7,
+      "question": "What is the largest mammal on Earth?",
+      "options": ["Blue whale", "Fin whale", "Humpback whale", "Sperm whale"],
+      "answer": "Blue whale"
+    },
+    {
+      "id": 8,
+      "question": "Who wrote the famous play 'Romeo and Juliet'?",
+      "options": ["William Shakespeare", "Christopher Marlowe", "Ben Jonson", "John Webster"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "id": 9,
+      "question": "What is the capital of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+      "answer": "Canberra"
+    },
+    {
+      "id": 10,
+      "question": "Who was the ancient Greek god of the underworld?",
+      "options": ["Zeus", "Poseidon", "Hades", "Ares"],
+      "answer": "Hades"
+    },
+    {
+      "id": 11,
+      "question": "What is the largest city in the world by population?",
+      "options": ["Tokyo", "New York City", "London", "Shanghai"],
+      "answer": "Tokyo"
+    },
+    {
+      "id": 12,
+      "question": "Who wrote the famous novel 'Pride and Prejudice'?",
+      "options": ["Jane Austen", "Charles Dickens", "The Brontë sisters", "Mary Shelley"],
+      "answer": "Jane Austen"
+    },
+    {
+      "id": 13,
+      "question": "What is the chemical symbol for silver?",
+      "options": ["Ag", "Au", "Hg", "Pb"],
+      "answer": "Ag"
+    },
+    {
+      "id": 14,
+      "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "options": ["Amelia Earhart", "Charles Lindbergh", "Wiley Post", "Howard Hughes"],
+      "answer": "Amelia Earhart"
+    },
+    {
+      "id": 15,
+      "question": "What is the largest desert in the world?",
+      "options": ["Sahara", "Gobi", "Mojave", "Atacama"],
+      "answer": "Sahara"
+    },
+    {
+      "id": 16,
+      "question": "Who wrote the famous play 'Hamlet'?",
+      "options": ["William Shakespeare", "Christopher Marlowe", "Ben Jonson", "John Webster"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "id": 17,
+      "question": "What is the capital of China?",
+      "options": ["Beijing", "Shanghai", "Guangzhou", "Hong Kong"],
+      "answer": "Beijing"
+    },
+    {
+      "id": 18,
+      "question": "Who was the ancient Greek goddess of wisdom?",
+      "options": ["Athena", "Aphrodite", "Artemis", "Hera"],
+      "answer": "Athena"
+       },
+    {
+      "id": 19,
+      "question": "What is the smallest country in the world?",
+      "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+      "answer": "Vatican City"
+    },
+    {
+      "id": 20,
+      "question": "Who discovered penicillin?",
+      "options": ["Alexander Fleming", "Louis Pasteur", "Marie Curie", "Joseph Lister"],
+      "answer": "Alexander Fleming"
+    },
+    {
+      "id": 21,
+      "question": "What is the longest river in the world?",
+      "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+      "answer": "Nile"
+    },
+    {
+      "id": 22,
+      "question": "Who was the first man to walk on the moon?",
+      "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Michael Collins"],
+      "answer": "Neil Armstrong"
+    },
+    {
+      "id": 23,
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Quartz"],
+      "answer": "Diamond"
+    },
+    {
+      "id": 24,
+      "question": "Who wrote the famous novel '1984'?",
+      "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Isaac Asimov"],
+      "answer": "George Orwell"
+    },
+    {
+      "id": 25,
+      "question": "What is the capital of Japan?",
+      "options": ["Tokyo", "Kyoto", "Osaka", "Hiroshima"],
+      "answer": "Tokyo"
+    },
+    {
+      "id": 26,
+      "question": "What is the main ingredient in guacamole?",
+      "options": ["Tomato", "Avocado", "Onion", "Pepper"],
+      "answer": "Avocado"
+    },
+    {
+      "id": 27,
+      "question": "Who is known as the 'Father of Modern Physics'?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Niels Bohr"],
+      "answer": "Albert Einstein"
+    },
+    {
+      "id": 28,
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "id": 29,
+      "question": "Who wrote the famous novel 'Moby Dick'?",
+      "options": ["Herman Melville", "Mark Twain", "Ernest Hemingway", "F. Scott Fitzgerald"],
+      "answer": "Herman Melville"
+    },
+    {
+      "id": 30,
+      "question": "What is the capital of Italy?",
+      "options": ["Rome", "Venice", "Florence", "Milan"],
+      "answer": "Rome"
+    },
+    {
+      "id": 31,
+      "question": "What is the largest continent by area?",
+      "options": ["Africa", "Asia", "North America", "South America"],
+      "answer": "Asia"
+    },
+    {
+      "id": 32,
+      "question": "Who invented the telephone?",
+      "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+      "answer": "Alexander Graham Bell"
+    },
+    {
+      "id": 33,
+      "question": "What is the main language spoken in Brazil?",
+      "options": ["Spanish", "Portuguese", "English", "French"],
+      "answer": "Portuguese"
+    },
+    {
+      "id": 34,
+      "question": "What is the capital of Canada?",
+      "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+      "answer": "Ottawa"
+    },
+    {
+      "id": 35,
+      "question": "Who was the first female Prime Minister of the United Kingdom?",
+      "options": ["Margaret Thatcher", "Theresa May", "Angela Merkel", "Indira Gandhi"],
+      "answer": "Margaret Thatcher"
+    },
+    {
+      "id": 36,
+      "question": "What is the largest organ in the human body?",
+      "options": ["Heart", "Liver", "Skin", "Lungs"],
+      "answer": "Skin"
+    },
+    {
+      "id": 37,
+      "question": "What is the currency of Japan?",
+   "options": ["Yen", "Won", "Dollar", "Euro"],
+      "answer": "Yen"
+    },
+    {
+      "id": 38,
+      "question": "Who wrote the famous novel 'The Great Gatsby'?",
+      "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain", "John Steinbeck"],
+      "answer": "F. Scott Fitzgerald"
+    },
+    {
+      "id": 39,
+      "question": "What is the smallest planet in our solar system?",
+      "options": ["Mercury", "Mars", "Venus", "Earth"],
+      "answer": "Mercury"
+    },
+    {
+      "id": 40,
+      "question": "What is the main ingredient in bread?",
+      "options": ["Flour", "Sugar", "Salt", "Water"],
+      "answer": "Flour"
+    },
+    {
+      "id": 41,
+      "question": "Who is known as the 'King of Pop'?",
+      "options": ["Elvis Presley", "Michael Jackson", "Prince", "Madonna"],
+      "answer": "Michael Jackson"
+    },
+    {
+      "id": 42,
+      "question": "What is the capital of Germany?",
+      "options": ["Berlin", "Munich", "Frankfurt", "Hamburg"],
+      "answer": "Berlin"
+    },
+    {
+      "id": 43,
+      "question": "What is the hardest natural material on Earth?",
+      "options": ["Diamond", "Gold", "Iron", "Quartz"],
+      "answer": "Diamond"
+    },
+    {
+      "id": 44,
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "options": ["Marie Curie", "Rosalind Franklin", "Ada Lovelace", "Jane Goodall"],
+      "answer": "Marie Curie"
+    },
+    {
+      "id": 45,
+      "question": "What is the largest island in the world?",
+      "options": ["Greenland", "New Guinea", "Borneo", "Madagascar"],
+      "answer": "Greenland"
+    },
+    {
+      "id": 46,
+      "question": "What is the main gas found in the air we breathe?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "Nitrogen"
+    },
+    {
+      "id": 47,
+      "question": "Who painted the ceiling of the Sistine Chapel?",
+      "options": ["Michelangelo", "Raphael", "Leonardo da Vinci", "Caravaggio"],
+      "answer": "Michelangelo"
+    },
+    {
+      "id": 48,
+      "question": "What is the capital of Egypt?",
+      "options": ["Cairo", "Alexandria", "Giza", "Luxor"],
+      "answer": "Cairo"
+    },
+    {
+      "id": 49,
+      "question": "What is the primary ingredient in sushi?",
+      "options": ["Rice", "Fish", "Seaweed", "Vegetables"],
+      "answer": "Rice"
+    },
+    {
+      "id": 50,
+      "question": "Who is the author of the Harry Potter series?",
+      "options": ["J.K. Rowling", "C.S. Lewis", "J.R.R. Tolkien", "Philip Pullman"],
+      "answer": "J.K. Rowling"
+    }
+  ]
